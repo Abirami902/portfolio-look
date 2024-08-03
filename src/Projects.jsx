@@ -74,7 +74,7 @@ function Projects() {
       img: "port.jpg",
       title: "PORTFOLIO ",
       description: "All About Me",
-      link: " https://abirami902.github.io/Resume/"
+      link: " https://portfolio-look.vercel.app/projects"
     }
    
   ];
