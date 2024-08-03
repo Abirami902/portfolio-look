@@ -1,0 +1,210 @@
+/* about */
+
+.hi{
+  margin-top: 200px;
+  font-size: 60px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+/* contact */
+
+.input{
+border-top: none;
+border-left: none;
+border-right: none;
+margin-left: 90px;
+margin-top: 100px;
+
+}
+
+.large-icon {
+    font-size: 40px;
+    margin-left: 750px;
+    transition: color 0.3s, transform 0.3s;
+}
+
+.large-icon:hover {
+  color:white;
+  transform: scale(1.2);
+
+}
+
+.large-icon1 {
+    font-size: 40px;
+    margin-left: 50px;
+    transition: color 0.3s, transform 0.3s;
+}
+
+.large-icon1:hover {
+  color: white; 
+  transform: scale(1.2);
+
+}
+
+.large-icon2{
+    font-size: 40px;
+    margin-left: 60px;  
+    transition: color 0.3s, transform 0.3s;
+}
+
+.large-icon2:hover {
+  color: white; 
+  transform: scale(1.2);
+
+}
+
+
+.large-icon3{
+    font-size: 40px;
+    margin-left: 70px;  
+    transition: color 0.3s, transform 0.3s;
+}
+
+.large-icon3:hover {
+  color: white; 
+  transform: scale(1.2);
+
+}
+
+ .large-icon4{
+  font-size: 40px;
+  margin-left: -30px;  
+  transition: color 0.3s, transform 0.3s;
+}
+
+.large-icon4:hover {
+color: white; 
+transform: scale(1.2);
+
+}
+
+.input {
+    color: black;
+    border: none;
+    border-bottom: 2px solid white;
+    padding: 5px;
+    outline: none;
+    width: 100%;
+    max-width: 400px;
+    margin-bottom: 15px;
+    font-size: 16px;
+    background: none;
+  }
+  .input:focus {
+    border-bottom: 2px solid #343a40;
+  }
+
+  .btn-custom {
+    padding: 10px 20px;
+    margin: 10px 5px;
+    background-color: #343a40;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+    margin-left: 140px;
+  }
+  .btn-custom:hover {
+    background-color: #495057;
+  }
+
+  .btn-custom1 {
+    padding: 10px 20px;
+    margin: 10px 5px;
+    background-color: #343a40;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+    margin-left: 90px;
+  }
+  .btn-custom1:hover {
+    background-color: #495057;
+  }
+
+   
+
+/* ........................................... */
+
+
+/* EDucation */
+/* 
+.edu{
+  color: black;
+}
+.d{
+  width: 1500px;
+   height: 1880px;
+   padding: 20px;
+   background-color:black;
+   margin-top: -700px;
+
+}
+.fs-1 {
+  font-size: 1.25rem; 
+}
+
+.card {
+  margin: 1rem 0; 
+}
+.card-img-top {
+  width: 100%;
+  height: auto;
+}
+.btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+} 
+
+ .black-card{
+  height: 200px;
+  width: 800px;
+  margin-left: 400px;
+  border-radius: 40px;
+}
+
+.img-fluid {
+  max-width: 100%;
+  margin-left: 850px;
+  margin-top: -150px;
+  height: auto;
+}
+.imagelogo2{
+  margin-bottom:-400px;
+  margin-left:130px;
+}
+.imagelogo1{
+  position: absolute;
+  margin-top:60px;
+  margin-left: 50px;
+}
+.imagelogo1:hover{
+  transform: scale(1.05);
+      box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}  */
+
+.cer{
+  margin-left: 30px;
+}
+.cer1{
+  margin-left: -70px;
+}
+/* 
+resume */
+
+.resume-container{
+  min-height: unset;
+}
+.view-btn, .download-btn {
+  font-size: 1.5rem;
+  color: #282020;
+  font-weight: bolder;
+  background-image: linear-gradient(to right, #13B0F5, #E70FAA);
+  border-radius: 20px !important;
+  padding-left: 3%;
+  padding-right: 3%;
+  margin-right: 3%;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-family: cursive;
+}
