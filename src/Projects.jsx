@@ -10,12 +10,7 @@ function Projects() {
       description: "A space for properties",
       link: "https://abirami902.github.io/website/"
     },
-    {
-      img: "atm.avif",
-      title: "ATM CARD",
-      description: "Dedicated payment card",
-      link: "https://abirami902.github.io/position-ATM/"
-    },
+   
     {
       img: "pic1.jpg",
       title: "BOOT STRAP RECIPE",
@@ -35,17 +30,18 @@ function Projects() {
       link: "https://deckcard.vercel.app/"
     },
     {
-      img: "cinema.avif",
-      title: "MOVIES SEARCH",
-      description: "Using API showing movie details",
-      link: "https://movie-time-phi.vercel.app/"
-    },
-    {
       img: "home.avif",
       title: "HOME",
       description: "Bootstrap",
       link: "https://dream-home-one.vercel.app/"
     },
+    {
+      img: "cinema.avif",
+      title: "MOVIES SEARCH",
+      description: "Using API showing movie details",
+      link: "https://movie-time-phi.vercel.app/"
+    },
+   
     {
       img: "weather.jpg",
       title: "WEATHER NOW",
@@ -56,26 +52,38 @@ function Projects() {
       img: "book.avif",
       title: "BOOK BUNCH",
       description: "Adding book details",
-      link: "https://abirami902.github.io/boot/"
+      link: "https://book-jw7n.vercel.app/"
     },
     {
-      img: "bio.webp",
-      title: "BIODATA ",
-      description: "Have a look to bio data",
-      link: "https://abirami902.github.io/Biodata/"
+      img: "quiz.jpg",
+      title: "QUIZ TIME ",
+      description: "Lets have some break here",
+      link: "https://quiz-time-omega.vercel.app/"
     },
     {
-      img: "reg.webp",
-      title: "REGISTRATION ",
-      description: "Registration form",
-      link: " https://abirami902.github.io/Resume/"
+      img: "net.jpeg",
+      title: "NETFLIX ",
+      description: "",
+      link: " https://netflix-amzq.vercel.app/"
     },
     {
       img: "port.jpg",
       title: "PORTFOLIO ",
       description: "All About Me",
       link: " https://portfolio-look.vercel.app/projects"
-    }
+    },
+    {
+      img: "its.webp",
+      title: "INTERN TRACKING SYSTEM ",
+      description: "The Intern Tracking System (ITS) web application designed to management of interns ",
+      link: " https://portfolio-look.vercel.app/projects"
+    },
+    {
+      img: "atm.avif",
+      title: "ATM CARD",
+      description: "Dedicated payment card",
+      link: "https://abirami902.github.io/position-ATM/"
+    },
    
   ];
 

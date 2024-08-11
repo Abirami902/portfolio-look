@@ -19,7 +19,6 @@ function Navbars() {
       <Navbar bg="secondary" className='text-light' data-bs-theme="light">
         <Container className='ms-5 mt-1'>
           <Nav className=" fw-bold">
-          <NavLink to="/" className=' ms-5 fs-3 home text-decoration-none text-reset'><GiRoyalLove className='ms-5 me-2'/>AAMI</NavLink>
             <NavLink to="/about" className=' fs-3 ms-5 home text-decoration-none text-reset'><TbArrowRoundaboutRight className='ms-5 me-2'/>ABOUT</NavLink>
             <NavLink to="/education" className=" fs-3 ms-5 text-decoration-none text-reset"><MdOutlineCastForEducation className='ms-5 me-2'/>EDUCATION</NavLink>
             <NavLink to="/skills" className="fs-3 ms-5 text-decoration-none text-reset"><GiSkills className='ms-5 me-2'/>SKILLS</NavLink>
