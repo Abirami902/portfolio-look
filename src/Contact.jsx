@@ -35,10 +35,10 @@ function Contact() {
       <SiFacebook className=" mt-5 large-icon1" />
       </a>
 
-      <a href="https://github.com/Abirami902/Portfolio" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/Abirami902" target="_blank" rel="noopener noreferrer">
         <FaGithub className=" mt-5 large-icon2" />
       </a>
-      <a href="https://www.linkedin.com/feed/" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.linkedin.com/in/abirami-narayanan-911b5126b/" target="_blank" rel="noopener noreferrer">
       <BsLinkedin className=" mt-5 large-icon3" />
       </a>
     </div>
