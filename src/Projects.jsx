@@ -70,7 +70,7 @@ function Projects() {
       img: "port.jpg",
       title: "PORTFOLIO ",
       description: "All About Me",
-      link: " https://portfolio-look.vercel.app/projects"
+      link: " https://portfolio-look-g2jw.vercel.app/"
     },
     {
       img: "its.webp",
